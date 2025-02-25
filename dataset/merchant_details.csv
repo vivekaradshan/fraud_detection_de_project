@@ -1,0 +1,701 @@
+﻿merchant,category
+fraud_Kirlin and Sons,personal_care
+fraud_Sporer-Keebler,personal_care
+"fraud_Swaniawski, Nitzsche and Welch",health_fitness
+fraud_Haley Group,misc_pos
+fraud_Johnston-Casper,travel
+fraud_Daugherty LLC,kids_pets
+fraud_Romaguera Ltd,health_fitness
+fraud_Reichel LLC,personal_care
+"fraud_Goyette, Howell and Collier",shopping_pos
+fraud_Kilback Group,food_dining
+"fraud_Feil, Hilpert and Koss",food_dining
+fraud_Gottlieb Group,kids_pets
+fraud_Connelly-Carter,home
+fraud_Bechtelar-Rippin,food_dining
+fraud_Lubowitz-Walter,kids_pets
+"fraud_Welch, Rath and Koepp",entertainment
+fraud_Hickle Group,shopping_pos
+"fraud_Lang, Towne and Schuppe",kids_pets
+fraud_Morissette LLC,entertainment
+fraud_Prosacco LLC,personal_care
+fraud_Corwin-Romaguera,travel
+fraud_Tillman LLC,travel
+fraud_Veum-Koelpin,travel
+"fraud_Watsica, Haag and Considine",shopping_pos
+fraud_Leannon-Ward,food_dining
+"fraud_Hintz, Bauch and Smith",health_fitness
+fraud_Labadie LLC,personal_care
+"fraud_Eichmann, Hayes and Treutel",travel
+fraud_Leffler-Goldner,personal_care
+fraud_Kautzer and Sons,personal_care
+fraud_Ernser-Feest,home
+"fraud_Zemlak, Tillman and Cremin",personal_care
+fraud_Nienow PLC,entertainment
+fraud_Lynch-Wisozk,home
+fraud_Schiller Ltd,personal_care
+fraud_Hoppe-Parisian,kids_pets
+fraud_Brown-Greenholt,entertainment
+fraud_Reilly LLC,home
+"fraud_Moore, Williamson and Emmerich",home
+fraud_Rau-Robel,kids_pets
+"fraud_Fadel, Mertz and Rippin",entertainment
+fraud_Crona and Sons,kids_pets
+"fraud_Bahringer, Bergnaum and Quitzon",home
+"fraud_Koss, Hansen and Lueilwitz",home
+"fraud_Yost, Schamberger and Windler",kids_pets
+"fraud_Armstrong, Walter and Gottlieb",food_dining
+fraud_Friesen Ltd,health_fitness
+fraud_Champlin and Sons,home
+fraud_Bins-Tillman,entertainment
+fraud_Douglas-White,entertainment
+"fraud_Hermiston, Pacocha and Smith",health_fitness
+"fraud_Denesik, Powlowski and Pouros",home
+fraud_Nader-Maggio,personal_care
+"fraud_O'Reilly, Mohr and Purdy",home
+fraud_O'Connell-Ullrich,home
+fraud_Bauch-Blanda,entertainment
+"fraud_Ruecker, Beer and Collier",shopping_net
+fraud_Berge-Hills,kids_pets
+fraud_White and Sons,home
+fraud_Adams-Barrows,health_fitness
+fraud_Pouros-Haag,shopping_pos
+"fraud_Hahn, Bahringer and McLaughlin",personal_care
+fraud_Ziemann-Waters,health_fitness
+"fraud_Wuckert, Wintheiser and Friesen",home
+fraud_Bednar PLC,kids_pets
+fraud_Kihn Inc,shopping_pos
+fraud_Fisher Inc,shopping_net
+"fraud_Schneider, Hayes and Nikolaus",food_dining
+"fraud_Greenholt, O'Hara and Balistreri",shopping_net
+fraud_Gottlieb-Hansen,personal_care
+"fraud_Douglas, Schneider and Turner",shopping_pos
+"fraud_Gutmann, McLaughlin and Wiza",home
+fraud_Weber and Sons,food_dining
+fraud_Bartoletti and Sons,personal_care
+fraud_Powlowski-Weimann,food_dining
+"fraud_Lakin, Ferry and Beatty",food_dining
+"fraud_Terry, Johns and Bins",misc_pos
+fraud_Thiel-Thiel,entertainment
+fraud_Kuhn Group,food_dining
+"fraud_Schaefer, Fay and Hilll",entertainment
+"fraud_Roberts, Ryan and Smith",personal_care
+fraud_Stiedemann Ltd,food_dining
+fraud_Pacocha-Weissnat,kids_pets
+fraud_Homenick LLC,personal_care
+fraud_Cartwright PLC,kids_pets
+fraud_Kihn-Fritsch,food_dining
+fraud_Lynch Ltd,shopping_pos
+fraud_Klein Group,entertainment
+fraud_Quitzon-Goyette,home
+fraud_Greenholt Ltd,health_fitness
+fraud_Bahringer Group,health_fitness
+fraud_Hilpert-Conroy,kids_pets
+"fraud_Witting, Beer and Ernser",home
+fraud_Breitenberg-Hermiston,kids_pets
+fraud_Friesen Inc,shopping_pos
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos
+fraud_Rippin-VonRueden,health_fitness
+"fraud_Nienow, Ankunding and Collier",misc_pos
+fraud_Schmidt and Sons,shopping_net
+"fraud_Prosacco, Kreiger and Kovacek",home
+fraud_Schumm PLC,health_fitness
+fraud_Berge-Ullrich,home
+"fraud_Roob, Conn and Tremblay",shopping_pos
+fraud_Kihn-Schuster,food_dining
+fraud_Monahan-Morar,personal_care
+fraud_Botsford Ltd,shopping_pos
+fraud_Hamill-D'Amore,health_fitness
+"fraud_Bradtke, Torp and Bahringer",personal_care
+fraud_Gaylord-Powlowski,home
+fraud_Mayert Group,shopping_pos
+fraud_Beier and Sons,home
+fraud_Abbott-Steuber,personal_care
+fraud_Ernser-Lynch,food_dining
+fraud_Little Ltd,kids_pets
+fraud_Gislason Group,travel
+fraud_Stark-Koss,home
+"fraud_Crist, Jakubowski and Littel",home
+fraud_Kling-Ernser,entertainment
+"fraud_Cronin, Kshlerin and Weber",health_fitness
+fraud_Upton PLC,entertainment
+fraud_Carroll PLC,health_fitness
+fraud_Effertz LLC,entertainment
+fraud_Windler LLC,kids_pets
+fraud_Satterfield-Lowe,travel
+fraud_Schuppe-Schuppe,food_dining
+fraud_Nader-Heller,misc_net
+fraud_Auer-West,shopping_net
+"fraud_Lesch, D'Amore and Brown",food_dining
+fraud_Barrows PLC,shopping_pos
+"fraud_O'Connell, Botsford and Hand",home
+fraud_Bode-Schuster,kids_pets
+fraud_O'Keefe-Wisoky,food_dining
+fraud_Conroy-Emard,food_dining
+fraud_Kutch-Ferry,home
+fraud_Donnelly LLC,entertainment
+fraud_Weimann-Lockman,kids_pets
+fraud_Runte-Mohr,food_dining
+"fraud_Dare, Fritsch and Zboncak",health_fitness
+"fraud_Kihn, Brakus and Goyette",personal_care
+fraud_Medhurst PLC,shopping_net
+fraud_Waelchi Inc,kids_pets
+fraud_Schumm PLC,shopping_net
+fraud_Dickinson Ltd,personal_care
+"fraud_Little, Gutmann and Lynch",shopping_net
+fraud_Schaefer Ltd,kids_pets
+fraud_Ankunding LLC,shopping_net
+fraud_Schoen-Quigley,kids_pets
+fraud_Towne LLC,misc_pos
+"fraud_Hills, Hegmann and Schaefer",health_fitness
+"fraud_Durgan, Gislason and Spencer",home
+"fraud_Hauck, Dietrich and Funk",kids_pets
+"fraud_Lubowitz, Terry and Stracke",personal_care
+fraud_Erdman-Ebert,personal_care
+fraud_Kub PLC,personal_care
+"fraud_Lehner, Reichert and Mills",misc_pos
+"fraud_Schiller, Blanda and Johnson",home
+fraud_Bins-Howell,personal_care
+"fraud_Turcotte, Batz and Buckridge",health_fitness
+fraud_Will Ltd,food_dining
+fraud_Gibson-Deckow,entertainment
+fraud_Treutel-King,travel
+fraud_Schmidt-Larkin,home
+"fraud_Windler, Goodwin and Kovacek",home
+fraud_Medhurst Inc,home
+fraud_Breitenberg LLC,travel
+fraud_Terry Ltd,home
+"fraud_Runte, Green and Emard",health_fitness
+fraud_Feil-Morar,health_fitness
+fraud_Kilback and Sons,entertainment
+"fraud_Conroy, Balistreri and Gorczany",health_fitness
+fraud_Schuppe LLC,entertainment
+fraud_Renner Ltd,home
+"fraud_Romaguera, Wehner and Tromp",kids_pets
+fraud_McKenzie-Huels,food_dining
+fraud_Dare-Marvin,entertainment
+fraud_Gleason and Sons,kids_pets
+"fraud_Cole, Hills and Jewess",home
+fraud_Roob-Okuneva,health_fitness
+fraud_Padberg-Sauer,home
+fraud_Gerhold LLC,home
+fraud_Botsford and Sons,home
+fraud_Volkman-Predovic,shopping_net
+fraud_Dare-Gibson,health_fitness
+fraud_Rempel Inc,shopping_net
+fraud_Torphy-Kertzmann,health_fitness
+"fraud_Runolfsdottir, Mueller and Hand",entertainment
+"fraud_Torp, Muller and Borer",health_fitness
+fraud_Abshire PLC,entertainment
+fraud_Spencer-Runolfsson,misc_pos
+fraud_Streich Ltd,home
+fraud_Bernier and Sons,kids_pets
+"fraud_Dare, Casper and Bartoletti",kids_pets
+fraud_Zboncak LLC,food_dining
+fraud_Erdman-Durgan,health_fitness
+fraud_Thiel Ltd,travel
+fraud_Heathcote LLC,shopping_net
+fraud_Eichmann-Kilback,home
+"fraud_Hoppe, Harris and Bednar",entertainment
+fraud_Hammes-Beatty,kids_pets
+fraud_Jacobi and Sons,shopping_pos
+fraud_Jast and Sons,food_dining
+"fraud_Streich, Rolfson and Wilderman",kids_pets
+fraud_Zboncak Ltd,food_dining
+fraud_Lemke and Sons,travel
+fraud_Kulas Group,health_fitness
+fraud_Goldner-Lemke,entertainment
+fraud_Predovic Inc,shopping_net
+fraud_Howe Ltd,misc_pos
+fraud_Stoltenberg-Beatty,shopping_pos
+fraud_Bruen-Yost,misc_pos
+"fraud_Reichel, Bradtke and Blanda",travel
+fraud_Morissette PLC,shopping_pos
+"fraud_Reichert, Huels and Hoppe",shopping_net
+fraud_Hills-Witting,shopping_net
+fraud_Shanahan-Lehner,personal_care
+fraud_Bogisich-Weimann,kids_pets
+"fraud_Douglas, DuBuque and McKenzie",travel
+fraud_Daugherty-Thompson,food_dining
+fraud_Goyette-Herzog,travel
+fraud_Keeling-Crist,misc_pos
+"fraud_Walter, Hettinger and Kessler",personal_care
+fraud_Kozey-McDermott,travel
+"fraud_McDermott, Osinski and Morar",home
+"fraud_Kilback, Nitzsche and Leffler",travel
+fraud_Vandervort-Funk,grocery_pos
+fraud_Hills-Boyer,personal_care
+fraud_Jast Ltd,shopping_net
+fraud_Grimes LLC,entertainment
+fraud_Gulgowski LLC,home
+fraud_Mohr-Bayer,shopping_net
+"fraud_Bahringer, Osinski and Block",food_dining
+fraud_Simonis-Prohaska,misc_pos
+"fraud_Kunze, Larkin and Mayert",travel
+"fraud_Becker, Harris and Harvey",personal_care
+fraud_Kutch-Wilderman,home
+"fraud_Lehner, Mosciski and King",misc_net
+fraud_Heaney-Marquardt,entertainment
+"fraud_McCullough, Hudson and Schuster",food_dining
+fraud_Kilback LLC,food_dining
+fraud_Kub-Heaney,health_fitness
+"fraud_Schumm, McLaughlin and Carter",food_dining
+fraud_Heller PLC,health_fitness
+"fraud_Hahn, Douglas and Schowalter",travel
+fraud_Kertzmann LLC,health_fitness
+"fraud_Mueller, Gerhold and Mueller",health_fitness
+"fraud_Reinger, Weissnat and Strosin",food_dining
+fraud_Connelly PLC,food_dining
+fraud_Conroy Ltd,shopping_pos
+"fraud_Willms, Kris and Bergnaum",shopping_pos
+"fraud_Pouros, Walker and Spencer",kids_pets
+"fraud_Roberts, Daniel and Macejkovic",kids_pets
+"fraud_Heathcote, Yost and Kertzmann",shopping_net
+fraud_Larkin Ltd,kids_pets
+fraud_Metz-Boehm,shopping_pos
+fraud_Parker-Kunde,personal_care
+fraud_Yost-Rogahn,personal_care
+fraud_Crooks and Sons,personal_care
+"fraud_Nienow, Barrows and Romaguera",personal_care
+fraud_Gleason-Macejkovic,shopping_net
+fraud_Altenwerth-Kilback,home
+fraud_Kuphal-Toy,food_dining
+fraud_Schulist Ltd,food_dining
+fraud_Welch Inc,misc_net
+fraud_Kassulke PLC,shopping_net
+fraud_Rau-Grant,kids_pets
+fraud_Macejkovic-Lesch,shopping_pos
+"fraud_Graham, Hegmann and Hammes",food_dining
+fraud_Waters-Cruickshank,health_fitness
+fraud_Lesch Ltd,shopping_pos
+fraud_Gislason Group,misc_pos
+fraud_Kozey-Boehm,shopping_net
+fraud_Bode-Rempel,kids_pets
+"fraud_Romaguera, Cruickshank and Greenholt",shopping_net
+fraud_Howe PLC,entertainment
+fraud_Volkman PLC,food_dining
+"fraud_Quitzon, Green and Bashirian",shopping_pos
+fraud_Shields-Wunsch,health_fitness
+fraud_Williamson LLC,misc_pos
+fraud_Fadel Inc,health_fitness
+fraud_Pacocha-Bauch,shopping_pos
+fraud_Fisher-Schowalter,shopping_net
+fraud_Johns Inc,entertainment
+fraud_Nolan-Williamson,kids_pets
+fraud_Maggio-Fahey,misc_pos
+fraud_Denesik and Sons,shopping_pos
+fraud_Jast-McDermott,shopping_pos
+fraud_Price Inc,shopping_net
+fraud_Schoen Ltd,kids_pets
+fraud_Fahey Inc,kids_pets
+fraud_Stiedemann Inc,misc_pos
+fraud_Mohr Inc,shopping_pos
+fraud_Wisozk and Sons,misc_pos
+fraud_Rolfson-Kunde,personal_care
+fraud_Wuckert-Goldner,home
+fraud_Pouros-Conroy,shopping_pos
+fraud_Kuhn LLC,shopping_pos
+fraud_Skiles LLC,home
+fraud_Boyer PLC,misc_pos
+fraud_Reilly and Sons,health_fitness
+fraud_Ratke and Sons,health_fitness
+fraud_Emmerich-Rau,personal_care
+fraud_Marvin-Lind,personal_care
+fraud_Wiza LLC,misc_pos
+fraud_Torp-Lemke,misc_pos
+"fraud_Effertz, Welch and Schowalter",entertainment
+fraud_Jerde-Hermann,travel
+fraud_Kassulke Inc,entertainment
+fraud_Ankunding-Carroll,travel
+fraud_Waelchi-Wolf,kids_pets
+fraud_Pagac LLC,shopping_pos
+fraud_Cormier LLC,health_fitness
+"fraud_Larkin, Stracke and Greenfelder",entertainment
+fraud_Ebert-Daugherty,travel
+"fraud_Rohan, White and Aufderhar",misc_net
+fraud_Schmeler-Howe,personal_care
+fraud_Osinski Inc,personal_care
+"fraud_Bernhard, Grant and Langworth",shopping_pos
+"fraud_Hagenes, Kohler and Hoppe",food_dining
+"fraud_Klocko, Runolfsdottir and Breitenberg",health_fitness
+"fraud_Larson, Quitzon and Spencer",travel
+"fraud_Weber, Thiel and Hammes",kids_pets
+fraud_Christiansen-Gusikowski,misc_pos
+fraud_Morissette-Schaefer,personal_care
+fraud_Watsica LLC,personal_care
+fraud_Jakubowski Group,food_dining
+fraud_Herzog Ltd,misc_pos
+fraud_Hackett Group,travel
+fraud_Reichel Inc,entertainment
+fraud_Abernathy and Sons,food_dining
+fraud_Stark-Batz,entertainment
+"fraud_Konopelski, Schneider and Hartmann",food_dining
+"fraud_Ledner, Hartmann and Feest",health_fitness
+fraud_Champlin-Casper,home
+fraud_Goyette-Gerhold,kids_pets
+"fraud_Kihn, Abernathy and Douglas",shopping_net
+"fraud_Stanton, Jakubowski and Baumbach",shopping_net
+fraud_Terry-Huel,shopping_net
+fraud_Cummerata-Hilpert,entertainment
+fraud_Turner and Sons,shopping_pos
+"fraud_Bahringer, Schoen and Corkery",shopping_pos
+"fraud_Hettinger, McCullough and Fay",home
+"fraud_Hayes, Marquardt and Dibbert",misc_net
+fraud_Zulauf LLC,personal_care
+fraud_Dibbert-Green,entertainment
+fraud_Brown Inc,kids_pets
+fraud_Fadel-Hilpert,health_fitness
+"fraud_Turner, Ziemann and Lehner",food_dining
+fraud_Fritsch LLC,travel
+"fraud_Labadie, Treutel and Bode",shopping_net
+"fraud_Hodkiewicz, Prohaska and Paucek",travel
+fraud_Swift PLC,kids_pets
+fraud_Little-Gleichner,travel
+fraud_Dickinson Ltd,misc_pos
+fraud_Stamm-Witting,shopping_net
+"fraud_Zboncak, Rowe and Murazik",shopping_net
+fraud_Baumbach Ltd,personal_care
+"fraud_Lowe, Dietrich and Erdman",kids_pets
+"fraud_Hermiston, Russel and Price",food_dining
+fraud_Auer LLC,personal_care
+fraud_Fritsch and Sons,health_fitness
+fraud_Wilkinson PLC,kids_pets
+fraud_Jakubowski Inc,home
+fraud_Boyer-Reichert,shopping_net
+fraud_Boyer-Haley,travel
+fraud_Dietrich-Fadel,health_fitness
+"fraud_Haley, Jewess and Bechtelar",shopping_pos
+fraud_McGlynn-Jaskolski,misc_pos
+"fraud_Turcotte, McKenzie and Koss",entertainment
+"fraud_Cormier, Stracke and Thiel",entertainment
+"fraud_Baumbach, Feeney and Morar",shopping_net
+fraud_Turcotte-Halvorson,misc_pos
+fraud_Hyatt-Blick,travel
+"fraud_Bernier, Volkman and Hoeger",misc_net
+"fraud_Gottlieb, Considine and Schultz",shopping_net
+fraud_Frami Group,entertainment
+fraud_Lebsack and Sons,misc_net
+"fraud_Haley, Batz and Auer",health_fitness
+fraud_Beier-Hyatt,shopping_pos
+fraud_Halvorson Group,misc_pos
+fraud_Johns-Hoeger,entertainment
+fraud_Schroeder Group,health_fitness
+"fraud_Weimann, Kuhic and Beahan",shopping_pos
+fraud_Kozey-Kuhlman,personal_care
+fraud_Kris-Padberg,shopping_pos
+fraud_Dibbert and Sons,entertainment
+fraud_Collier LLC,home
+fraud_Bednar Inc,travel
+fraud_Durgan-Auer,misc_net
+fraud_Murray-Smitham,grocery_pos
+"fraud_Kling, Howe and Schneider",home
+fraud_Larson-Moen,entertainment
+fraud_Cruickshank-Mills,entertainment
+"fraud_Berge, Kautzer and Harris",personal_care
+fraud_Boyer PLC,shopping_net
+fraud_O'Hara-Wilderman,food_dining
+"fraud_Hyatt, Russel and Gleichner",health_fitness
+"fraud_Bins, Balistreri and Beatty",shopping_pos
+fraud_Jewess LLC,shopping_pos
+"fraud_Hartmann, Rowe and Hermann",travel
+fraud_Buckridge PLC,misc_pos
+fraud_Langworth LLC,personal_care
+"fraud_Metz, Russel and Metz",kids_pets
+"fraud_Schoen, Kuphal and Nitzsche",grocery_pos
+fraud_Erdman-Schaden,personal_care
+fraud_Reichert-Weissnat,travel
+fraud_McDermott-Rice,misc_pos
+"fraud_Streich, Dietrich and Barton",shopping_net
+fraud_Gerlach Inc,shopping_net
+fraud_Dooley Inc,shopping_pos
+fraud_Thompson-Gleason,health_fitness
+fraud_Cormier LLC,shopping_net
+"fraud_Reichert, Shanahan and Hayes",shopping_net
+"fraud_Kutch, Steuber and Gerhold",food_dining
+fraud_Harris Group,food_dining
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos
+fraud_Bashirian Group,shopping_net
+"fraud_Towne, Greenholt and Koepp",shopping_net
+fraud_Haag-Blanda,food_dining
+fraud_Abbott-Rogahn,entertainment
+fraud_Lind-Buckridge,entertainment
+"fraud_Altenwerth, Cartwright and Koss",shopping_net
+"fraud_Daugherty, Pouros and Beahan",shopping_pos
+"fraud_Langosh, Wintheiser and Hyatt",food_dining
+fraud_Beier LLC,entertainment
+"fraud_Brown, Homenick and Lesch",health_fitness
+fraud_Spencer PLC,entertainment
+"fraud_Ritchie, Oberbrunner and Cremin",travel
+fraud_Kovacek Ltd,travel
+fraud_Pollich LLC,home
+"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos
+"fraud_Koss, McLaughlin and Mayer",food_dining
+fraud_Kessler Group,travel
+fraud_Smith-Stokes,misc_pos
+fraud_Herman Inc,misc_pos
+fraud_Kuhic LLC,shopping_net
+fraud_Pfeffer and Sons,shopping_pos
+fraud_Botsford PLC,home
+"fraud_Schoen, Nienow and Bauch",personal_care
+fraud_Turner LLC,travel
+"fraud_Parker, Nolan and Trantow",entertainment
+"fraud_Ritchie, Bradtke and Stiedemann",travel
+fraud_Ruecker-Mayert,kids_pets
+fraud_Ullrich Ltd,kids_pets
+"fraud_Schmeler, Bashirian and Price",shopping_net
+fraud_Mosciski Group,travel
+"fraud_Boehm, Block and Jakubowski",misc_pos
+fraud_Deckow-Dare,food_dining
+fraud_Beer-Jast,kids_pets
+fraud_Schimmel-Olson,kids_pets
+fraud_Schmeler Inc,misc_pos
+fraud_Thiel PLC,misc_pos
+"fraud_Boehm, Predovic and Reinger",misc_pos
+fraud_Graham and Sons,health_fitness
+fraud_McCullough LLC,misc_pos
+"fraud_Mosciski, Gislason and Mertz",grocery_pos
+"fraud_Schroeder, Hauck and Treutel",entertainment
+fraud_Block-Parisian,misc_net
+fraud_Flatley Group,misc_pos
+"fraud_McLaughlin, Armstrong and Koepp",travel
+fraud_Wilkinson LLC,personal_care
+fraud_Sawayn PLC,shopping_pos
+fraud_Eichmann-Russel,misc_pos
+fraud_Hermann and Sons,shopping_pos
+fraud_Goyette Inc,shopping_net
+fraud_Barton LLC,kids_pets
+"fraud_Yost, Block and Koepp",misc_pos
+fraud_Kerluke-Abshire,shopping_net
+fraud_Padberg-Rogahn,entertainment
+fraud_Dach-Nader,misc_net
+"fraud_Wintheiser, Dietrich and Schimmel",misc_pos
+"fraud_Champlin, Rolfson and Connelly",travel
+fraud_Jacobi Inc,health_fitness
+fraud_Koelpin and Sons,misc_net
+"fraud_Medhurst, Labadie and Gottlieb",travel
+fraud_Bednar Group,misc_net
+fraud_Friesen-Ortiz,personal_care
+"fraud_Turner, Ruecker and Parisian",misc_pos
+fraud_Rutherford-Mertz,grocery_pos
+fraud_Gutmann-Upton,misc_pos
+"fraud_Medhurst, Cartwright and Ebert",personal_care
+"fraud_Nicolas, Hills and McGlynn",entertainment
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos
+fraud_Wilkinson Ltd,entertainment
+fraud_Kris-Kertzmann,travel
+fraud_Roberts-Beahan,misc_pos
+fraud_Bernhard-Lesch,food_dining
+"fraud_Monahan, Bogisich and Ledner",misc_pos
+fraud_Kessler Inc,travel
+fraud_Padberg-Welch,grocery_pos
+fraud_Block Group,misc_pos
+fraud_Torphy-Goyette,shopping_pos
+"fraud_Mante, Luettgen and Hackett",health_fitness
+fraud_Bailey-Morar,grocery_pos
+fraud_Lynch-Mohr,travel
+"fraud_Rodriguez, Yost and Jenkins",misc_net
+fraud_Stamm-Rodriguez,misc_pos
+"fraud_Okuneva, Schneider and Rau",shopping_pos
+fraud_Hirthe-Beier,health_fitness
+fraud_Tromp Group,travel
+"fraud_Schroeder, Wolff and Hermiston",travel
+"fraud_Reichert, Rowe and Mraz",shopping_net
+fraud_Bahringer-Streich,food_dining
+fraud_Romaguera and Sons,travel
+fraud_Lemke-Gutmann,shopping_net
+fraud_Heller-Langosh,gas_transport
+fraud_Hintz-Bruen,grocery_net
+fraud_McGlynn-Heathcote,misc_net
+fraud_Bernhard Inc,gas_transport
+fraud_Bahringer-Larson,grocery_net
+"fraud_Reilly, Heaney and Cole",gas_transport
+"fraud_Bernier, Streich and Jewess",grocery_net
+fraud_Friesen-D'Amore,gas_transport
+"fraud_Huel, Hammes and Witting",grocery_pos
+fraud_Miller-Hauck,grocery_pos
+fraud_Skiles-Ankunding,grocery_net
+fraud_Schmitt Ltd,misc_net
+fraud_Kerluke Inc,misc_net
+fraud_Volkman Ltd,misc_net
+fraud_Prohaska-Murray,gas_transport
+fraud_Schmitt Inc,gas_transport
+"fraud_Kerluke, Considine and Macejkovic",misc_net
+fraud_Kutch-Hegmann,grocery_net
+fraud_Spinka Inc,grocery_net
+fraud_Stracke-Lemke,grocery_pos
+"fraud_Raynor, Feest and Miller",gas_transport
+fraud_Strosin-Cruickshank,grocery_pos
+"fraud_Schaefer, McGlynn and Bosco",gas_transport
+fraud_Marks Inc,gas_transport
+fraud_Huel-Langworth,misc_net
+"fraud_Eichmann, Bogan and Rodriguez",gas_transport
+"fraud_Morissette, Weber and Wiegand",grocery_net
+"fraud_Moen, Reinger and Murphy",grocery_pos
+"fraud_Schultz, Simonis and Little",grocery_pos
+"fraud_Ferry, Lynch and Kautzer",misc_net
+"fraud_Osinski, Ledner and Leuschke",grocery_pos
+fraud_Ledner-Pfannerstill,gas_transport
+fraud_O'Keefe-Hudson,grocery_pos
+fraud_Murray Ltd,grocery_net
+fraud_Pfeffer LLC,grocery_net
+fraud_Cole PLC,grocery_pos
+fraud_Hudson-Ratke,grocery_pos
+fraud_Kuvalis Ltd,gas_transport
+fraud_Miller-Harris,misc_net
+"fraud_Zieme, Bode and Dooley",gas_transport
+"fraud_Swaniawski, Lowe and Robel",shopping_pos
+fraud_Kemmer-Buckridge,misc_pos
+"fraud_Swift, Bradtke and Marquardt",grocery_net
+"fraud_Olson, Becker and Koch",gas_transport
+fraud_Bartoletti-Wunsch,gas_transport
+fraud_Emard Inc,gas_transport
+"fraud_Ferry, Reichel and DuBuque",grocery_net
+fraud_Kemmer-Reinger,grocery_net
+fraud_Koss and Sons,gas_transport
+fraud_Hackett-Lueilwitz,grocery_pos
+fraud_Barton Inc,grocery_pos
+fraud_Lockman Ltd,grocery_pos
+fraud_Klocko LLC,misc_net
+fraud_Kunze Inc,grocery_pos
+fraud_Luettgen PLC,gas_transport
+fraud_Cummerata-Jones,gas_transport
+"fraud_Rowe, Batz and Goodwin",grocery_pos
+fraud_Kling Inc,gas_transport
+fraud_Kiehn-Emmerich,grocery_pos
+fraud_Parisian and Sons,gas_transport
+fraud_Sporer Inc,gas_transport
+fraud_Kuphal-Bartoletti,misc_net
+"fraud_Harris, Gusikowski and Heaney",grocery_net
+fraud_Mraz-Herzog,gas_transport
+fraud_Huels-Hahn,gas_transport
+"fraud_Stroman, Hudson and Erdman",gas_transport
+fraud_Huel Ltd,misc_net
+"fraud_Cremin, Hamill and Reichel",misc_pos
+fraud_Rowe-Vandervort,grocery_net
+fraud_Bins-Rice,gas_transport
+fraud_DuBuque LLC,grocery_pos
+fraud_Torp-Labadie,gas_transport
+fraud_Kiehn Inc,grocery_pos
+"fraud_Tillman, Dickinson and Labadie",gas_transport
+fraud_Friesen-Stamm,gas_transport
+fraud_Kuhic Inc,grocery_pos
+fraud_Dickinson-Rempel,misc_pos
+fraud_Hudson-Grady,shopping_pos
+"fraud_Goldner, Kovacek and Abbott",grocery_pos
+fraud_Corwin-Collins,gas_transport
+"fraud_Tillman, Fritsch and Schmitt",misc_net
+fraud_Dach-Borer,grocery_net
+fraud_Morar Inc,grocery_net
+"fraud_Kutch, Hermiston and Farrell",gas_transport
+"fraud_Connelly, Reichert and Fritsch",gas_transport
+fraud_Schamberger-O'Keefe,grocery_pos
+fraud_McDermott-Weimann,grocery_pos
+fraud_Kerluke PLC,misc_net
+"fraud_Casper, Hand and Zulauf",grocery_pos
+"fraud_Greenfelder, Bartoletti and Davis",misc_net
+fraud_Cartwright-Harris,grocery_pos
+fraud_Rau and Sons,grocery_pos
+fraud_Erdman-Kertzmann,gas_transport
+fraud_Hamill-Daugherty,misc_net
+fraud_Jaskolski-Vandervort,misc_net
+fraud_Huels-Nolan,gas_transport
+fraud_Trantow PLC,grocery_net
+"fraud_Lockman, West and Runte",grocery_pos
+"fraud_Johnson, Runolfsdottir and Mayer",misc_net
+"fraud_Kovacek, Dibbert and Ondricka",grocery_pos
+"fraud_Raynor, Reinger and Hagenes",gas_transport
+fraud_Kutch LLC,gas_transport
+fraud_Dooley-Thompson,misc_net
+fraud_Harber Inc,gas_transport
+"fraud_Schumm, Bauch and Ondricka",grocery_pos
+"fraud_Moore, Dibbert and Koepp",misc_net
+fraud_Flatley-Durgan,misc_net
+fraud_Kilback LLC,grocery_pos
+fraud_Rodriguez Group,gas_transport
+"fraud_Stokes, Christiansen and Sipes",grocery_net
+fraud_Heidenreich PLC,grocery_pos
+fraud_Bauch-Raynor,grocery_pos
+"fraud_Langworth, Boehm and Gulgowski",shopping_net
+fraud_Runolfsson and Sons,grocery_net
+fraud_Ortiz Group,grocery_net
+fraud_Zemlak Group,misc_net
+fraud_Wuckert-Walter,grocery_net
+"fraud_Tromp, Kerluke and Glover",grocery_net
+fraud_Ruecker Group,misc_net
+fraud_Deckow-O'Conner,grocery_pos
+"fraud_Heller, Gutmann and Zieme",grocery_pos
+"fraud_Robel, Cummerata and Prosacco",gas_transport
+"fraud_Lind, Huel and McClure",gas_transport
+fraud_Roob LLC,grocery_net
+fraud_VonRueden Group,grocery_net
+fraud_Wolf Inc,grocery_pos
+fraud_Kutch and Sons,grocery_pos
+fraud_Gutmann Ltd,grocery_net
+"fraud_Jones, Sawayn and Romaguera",misc_net
+fraud_Brekke and Sons,gas_transport
+"fraud_Adams, Kovacek and Kuhlman",grocery_net
+fraud_Collier Inc,grocery_net
+"fraud_Greenholt, Jacobi and Gleason",gas_transport
+"fraud_Stehr, Jewess and Schimmel",misc_net
+fraud_Koepp-Witting,grocery_pos
+fraud_Cummings LLC,gas_transport
+fraud_Wiegand-Lowe,grocery_net
+fraud_Paucek-Wiza,grocery_net
+fraud_Conroy-Cruickshank,gas_transport
+fraud_Kuhn LLC,misc_net
+fraud_Bogisich-Homenick,misc_net
+"fraud_Jenkins, Hauck and Friesen",gas_transport
+fraud_Emmerich-Luettgen,grocery_net
+fraud_Cassin-Harvey,grocery_net
+"fraud_Schaefer, Maggio and Daugherty",gas_transport
+"fraud_Kohler, Lindgren and Koelpin",grocery_net
+fraud_Doyle Ltd,grocery_pos
+fraud_Heller-Abshire,grocery_net
+"fraud_Mosciski, Ziemann and Farrell",shopping_net
+fraud_Cummings Group,grocery_net
+"fraud_Swaniawski, Bahringer and Ledner",grocery_net
+"fraud_Christiansen, Goyette and Schamberger",gas_transport
+fraud_Bradtke PLC,grocery_pos
+"fraud_Streich, Hansen and Veum",gas_transport
+fraud_Pacocha-O'Reilly,grocery_pos
+fraud_Koepp-Parker,grocery_pos
+fraud_Auer-Mosciski,grocery_pos
+"fraud_Wiza, Schaden and Stark",misc_pos
+"fraud_Kuhic, Bins and Pfeffer",shopping_net
+fraud_Bogisich Inc,grocery_pos
+fraud_Kling-Grant,grocery_net
+fraud_Kutch Group,grocery_net
+fraud_Kuphal-Predovic,misc_net
+fraud_Balistreri-Nader,misc_pos
+fraud_Harris Inc,gas_transport
+fraud_Berge LLC,gas_transport
+"fraud_Towne, Walker and Borer",grocery_net
+"fraud_Herman, Treutel and Dickens",misc_net
+fraud_Kris-Weimann,misc_net
+fraud_Reynolds-Schinner,misc_pos
+fraud_Goodwin-Nitzsche,grocery_pos
+fraud_Jaskolski-Dibbert,grocery_net
+fraud_Dicki Ltd,grocery_net
+fraud_Funk Group,grocery_net
+"fraud_Rutherford, Homenick and Bergstrom",grocery_net
+"fraud_Kerluke, Kertzmann and Wiza",misc_net
+fraud_Donnelly PLC,misc_net
+fraud_Spinka-Welch,grocery_net
+fraud_Brown PLC,misc_net
+fraud_Kunde-Sanford,misc_net
+"fraud_Parisian, Schiller and Altenwerth",misc_net
+fraud_Smitham-Boehm,grocery_net
+fraud_Shields Inc,grocery_net
+"fraud_Johnston, Nikolaus and Maggio",grocery_net
+fraud_Smitham-Schiller,grocery_net
+fraud_Hills-Olson,grocery_net
+"fraud_Rippin, Kub and Mann",misc_net
+fraud_Rempel PLC,grocery_net
+fraud_Leannon-Nikolaus,travel
+"fraud_Monahan, Hermann and Johns",travel
+fraud_Block-Hauck,travel
+"fraud_Hagenes, Hermann and Stroman",travel
+fraud_Hermann-Gaylord,misc_pos
+fraud_Mante Group,misc_net
+fraud_Corwin-Gorczany,misc_net
+fraud_McCullough Group,grocery_net
